@@ -1,1 +1,0 @@
-SQLITE3 = "SQLITE3"
